@@ -13,7 +13,6 @@ struct MyApp: App {
                     .tabItem {
                         Label("Persistence", systemImage: "folder")
                     }
-
             }
         }
     }
